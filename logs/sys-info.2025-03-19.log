@@ -1,0 +1,45 @@
+2025-03-19 10:54:06 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 16268 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 10:54:06 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-03-19 10:54:07 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-03-19 10:54:07 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-19 10:54:07 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2025-03-19 10:54:07 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-19 10:54:07 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-03-19 10:54:07 [main] INFO  com.dxw.CeshiTestApplication - Started CeshiTestApplication in 1.345 seconds (JVM running for 2.081)
+2025-03-19 10:54:11 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-19 11:16:45 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 18064 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:16:45 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:16:48 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 3.021 seconds (JVM running for 6.134)
+2025-03-19 11:22:00 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 15072 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:22:00 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:22:01 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.699 seconds (JVM running for 2.564)
+2025-03-19 11:34:24 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 15924 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:34:24 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:34:26 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.86 seconds (JVM running for 2.719)
+2025-03-19 11:35:41 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 20148 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:35:41 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:35:43 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.648 seconds (JVM running for 2.512)
+2025-03-19 11:41:39 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 17428 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:41:39 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:41:40 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.68 seconds (JVM running for 2.556)
+2025-03-19 11:44:30 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 18384 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:44:30 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:44:31 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.67 seconds (JVM running for 2.533)
+2025-03-19 11:46:46 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 18356 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:46:47 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:46:48 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.694 seconds (JVM running for 2.589)
+2025-03-19 11:47:15 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 19144 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 11:47:15 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 11:47:16 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.701 seconds (JVM running for 2.576)
+2025-03-19 13:46:56 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 14984 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 13:46:56 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 13:46:58 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 2.102 seconds (JVM running for 3.389)
+2025-03-19 13:47:52 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 9084 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 13:47:52 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 13:47:54 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.675 seconds (JVM running for 2.543)
+2025-03-19 13:48:09 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 22144 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 13:48:09 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 13:48:11 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.747 seconds (JVM running for 2.625)
+2025-03-19 13:49:20 [main] INFO  com.dxw.CeshiTestApplicationTests - Starting CeshiTestApplicationTests using Java 1.8.0_372 on DESKTOP-QEICDSG with PID 19364 (started by Administrator in D:\desktop\后端\ceshi_test)
+2025-03-19 13:49:20 [main] INFO  com.dxw.CeshiTestApplicationTests - The following 1 profile is active: "dev"
+2025-03-19 13:49:21 [main] INFO  com.dxw.CeshiTestApplicationTests - Started CeshiTestApplicationTests in 1.716 seconds (JVM running for 2.595)

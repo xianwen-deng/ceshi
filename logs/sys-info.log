@@ -1,0 +1,21 @@
+2025-09-02 11:48:23 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 20232 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:48:23 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:48:25 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:48:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-02 11:48:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2025-09-02 11:48:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-09-02 11:48:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:48:26 [main] INFO  com.dxw.CeshiTestApplication - Started CeshiTestApplication in 3.092 seconds (JVM running for 3.904)
+2025-09-02 11:48:27 [RMI TCP Connection(3)-192.168.39.63] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-02 11:49:37 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 8032 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:49:37 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:51:17 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 19152 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:51:17 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:51:19 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:51:19 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-02 11:51:19 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2025-09-02 11:51:19 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-09-02 11:51:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:51:20 [main] INFO  com.dxw.CeshiTestApplication - Started CeshiTestApplication in 2.659 seconds (JVM running for 3.353)
+2025-09-02 11:51:20 [RMI TCP Connection(3)-192.168.39.63] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-02 11:51:25 [http-nio-8080-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 236 ms

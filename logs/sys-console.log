@@ -1,0 +1,54 @@
+2025-09-02 11:48:23 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 20232 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:48:23 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:48:25 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:48:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-02 11:48:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2025-09-02 11:48:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-09-02 11:48:26 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2025-09-02 11:48:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:48:26 [main] INFO  com.dxw.CeshiTestApplication - Started CeshiTestApplication in 3.092 seconds (JVM running for 3.904)
+2025-09-02 11:48:27 [RMI TCP Connection(3)-192.168.39.63] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-02 11:49:37 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 8032 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:49:37 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:49:38 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [com.dxw.CeshiTestApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'appTask' for bean class [com.zhijie.utils.intWork.AppTask] conflicts with existing, non-compatible bean definition of same name and class [com.dxw.intWork.AppTask]
+2025-09-02 11:49:38 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [com.dxw.CeshiTestApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'appTask' for bean class [com.zhijie.utils.intWork.AppTask] conflicts with existing, non-compatible bean definition of same name and class [com.dxw.intWork.AppTask]
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:610)
+	at org.springframework.context.annotation.ConfigurationClassParser.access$800(ConfigurationClassParser.java:111)
+	at org.springframework.context.annotation.ConfigurationClassParser$DeferredImportSelectorGroupingHandler.lambda$processGroupImports$1(ConfigurationClassParser.java:812)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+	at org.springframework.context.annotation.ConfigurationClassParser$DeferredImportSelectorGroupingHandler.processGroupImports(ConfigurationClassParser.java:809)
+	at org.springframework.context.annotation.ConfigurationClassParser$DeferredImportSelectorHandler.process(ConfigurationClassParser.java:780)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:193)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.dxw.CeshiTestApplication.main(CeshiTestApplication.java:13)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'appTask' for bean class [com.zhijie.utils.intWork.AppTask] conflicts with existing, non-compatible bean definition of same name and class [com.dxw.intWork.AppTask]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.processImports(ConfigurationClassParser.java:600)
+	... 19 common frames omitted
+2025-09-02 11:51:17 [main] INFO  com.dxw.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-7VJJE7J with PID 19152 (D:\desktop\一体化\ceshi_test\target\classes started by Administrator in D:\desktop\一体化\ceshi_test)
+2025-09-02 11:51:17 [main] INFO  com.dxw.CeshiTestApplication - The following 1 profile is active: "dev"
+2025-09-02 11:51:19 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:51:19 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-02 11:51:19 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2025-09-02 11:51:19 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-09-02 11:51:19 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2025-09-02 11:51:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-09-02 11:51:20 [main] INFO  com.dxw.CeshiTestApplication - Started CeshiTestApplication in 2.659 seconds (JVM running for 3.353)
+2025-09-02 11:51:20 [RMI TCP Connection(3)-192.168.39.63] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-02 11:51:25 [http-nio-8080-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 236 ms

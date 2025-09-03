@@ -1,0 +1,108 @@
+2024-12-25 16:27:11 [main] INFO  com.elco.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 5404 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-25 16:27:11 [main] INFO  com.elco.CeshiTestApplication - The following 1 profile is active: "dev"
+2024-12-25 16:27:12 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:12 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-25 16:27:12 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-25 16:27:12 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-25 16:27:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:13 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2024-12-25 16:27:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:13 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-12-25 16:27:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:13 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-12-25 16:27:22 [main] INFO  com.elco.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 17824 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-25 16:27:22 [main] INFO  com.elco.CeshiTestApplication - The following 1 profile is active: "dev"
+2024-12-25 16:27:23 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:23 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-25 16:27:23 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-25 16:27:23 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-25 16:27:23 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:23 [main] INFO  com.elco.CeshiTestApplication - Started CeshiTestApplication in 1.405 seconds (JVM running for 2.038)
+2024-12-25 16:27:29 [main] INFO  com.elco.CeshiTestApplication - Starting CeshiTestApplication using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 6056 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-25 16:27:29 [main] INFO  com.elco.CeshiTestApplication - The following 1 profile is active: "dev"
+2024-12-25 16:27:29 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-25 16:27:29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-25 16:27:29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-25 16:27:30 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:27:30 [main] INFO  com.elco.CeshiTestApplication - Started CeshiTestApplication in 1.408 seconds (JVM running for 1.979)
+2024-12-25 16:29:47 [main] INFO  com.elco.Application - Starting Application using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 22168 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-25 16:29:47 [main] INFO  com.elco.Application - The following 1 profile is active: "dev"
+2024-12-25 16:29:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-25 16:29:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-25 16:29:48 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-25 16:29:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:48 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2024-12-25 16:29:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:48 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-12-25 16:29:49 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:49 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:49 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-12-25 16:29:55 [main] INFO  com.elco.Application - Starting Application using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 27000 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-25 16:29:55 [main] INFO  com.elco.Application - The following 1 profile is active: "dev"
+2024-12-25 16:29:56 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:56 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-25 16:29:56 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-25 16:29:56 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-25 16:29:56 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - Started Application in 1.563 seconds (JVM running for 2.226)
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - =======================通过 management 来获取相关系统状态============================
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - INIT HEAP: 764m
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - MAX HEAP: 10864m
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - USE HEAP: 145m
+2024-12-25 16:29:56 [main] INFO  com.elco.Application -
+Full Information:
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - Heap Memory Usage: init = 801112064(782336K) used = 152056736(148492K) committed = 587726848(573952K) max = 11391729664(11124736K)
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - Non-Heap Memory Usage: init = 2555904(2496K) used = 41713608(40735K) committed = 44695552(43648K) max = -1(-1K)
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - =======================通过 Runtime 来获取相关系统状态============================
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - 当前堆内存大小totalMemory 560m
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - 空闲堆内存大小freeMemory 415m
+2024-12-25 16:29:56 [main] INFO  com.elco.Application - 最大可用总堆内存maxMemory 10864m
+2024-12-26 09:28:24 [main] INFO  com.elco.Application - Starting Application using Java 1.8.0_372 on DESKTOP-07CVCQ0 with PID 25784 (D:\desktop\后端\ceshi_test\target\classes started by Administrator in D:\desktop\后端\ceshi_test)
+2024-12-26 09:28:24 [main] INFO  com.elco.Application - The following 1 profile is active: "dev"
+2024-12-26 09:28:25 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-26 09:28:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-26 09:28:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-12-26 09:28:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-26 09:28:25 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - Started Application in 1.452 seconds (JVM running for 2.011)
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - =======================通过 management 来获取相关系统状态============================ 
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - INIT HEAP: 764m
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - MAX HEAP: 10864m
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - USE HEAP: 144m
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - 
+Full Information:
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - Heap Memory Usage: init = 801112064(782336K) used = 152042120(148478K) committed = 588775424(574976K) max = 11391729664(11124736K)
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - Non-Heap Memory Usage: init = 2555904(2496K) used = 41661136(40684K) committed = 44630016(43584K) max = -1(-1K)
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - =======================通过 Runtime 来获取相关系统状态============================ 
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - 当前堆内存大小totalMemory 561m
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - 空闲堆内存大小freeMemory 416m
+2024-12-26 09:28:25 [main] INFO  com.elco.Application - 最大可用总堆内存maxMemory 10864m
