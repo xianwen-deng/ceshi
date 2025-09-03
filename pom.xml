@@ -62,6 +62,7 @@
                 <configuration>
                     <mainClass>com.dxw.CeshiTestApplication</mainClass>
                     <skip>true</skip>
+
                 </configuration>
                 <executions>
                     <execution>
